@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<h2><a href="https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/4840535492165632">Spin-off of "Project: Make it Rain"</a></h2><script src="https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/4840535492165632/embed.js?editor=no&buttons=no&author=yes&embed=yes"></script><p>Made using: <a href="http://www.khanacademy.org/computer-programming">Khan Academy Computer Science</a></p>
+
 <!--
 **StephenJBrasel/StephenJBrasel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
